@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\controllers\AuthController.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\domain\usuario\Usuario.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\dto\LoginRequestDTO.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\dto\RegisterRequestDTO.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\dto\ResponseDTO.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\exception\GlobalExceptionHandler.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\exception\ResourceNotFoundException.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\exception\TokenGenerationException.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\exception\TokenVerificationException.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\infra\security\CustomUsuarioDetailsService.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\infra\security\SecurityConfig.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\infra\security\SecurityFilter.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\infra\security\TokenService.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\repositories\UsuarioRepository.java
+C:\Users\Usuario\OneDrive\Desktop\c24-44-n-webapp\backend\src\main\java\com\urbannext\api\UrbanNextApplication.java
