@@ -39,7 +39,7 @@ ___
 1 - Clona el repositorio en tu máquina local
 ``` bash
 git clone
-<https://github.com/toby959/toby959.git>
+<https://github.com/toby959/casichen.git>
 ```
 2 - Compila y ejecuta el archivo UrbanNextApplication.java.
 ___
